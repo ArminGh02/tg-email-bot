@@ -1,2 +1,3 @@
 # tg-email-bot
-Telegram bot to help collect emails of users of a chat
+Telegram bot to help collect emails of users of a chat  
+t.me/autemailbot
